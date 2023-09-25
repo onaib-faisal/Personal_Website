@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+body[data-theme='dark'] {
+  background-color: #181818;
+  color: #ffffff;
+  /* ... other dark mode styles ... */
+}
